@@ -41,15 +41,27 @@ Oracle • SQL Server • MySQL
 
 ## 📂 Featured Projects
 
-### 🔹 [Hybrid Selenium Automation Framework](https://github.com/Mugdass/your-framework-repo)
-> Java + Selenium + TestNG + Page Object Model  
-> Modular framework designed to automate regression and functional tests for web apps.
+### 🔹 [QA-Automation-Java-BDD](https://github.com/Mugdass/QA-Automation-Java-BDD)
+Java + Selenium + TestNG + JUnit + Cucumber/Gherkin | Hybrid BDD framework with unit tests
 
-### 🔹 [API Testing with Postman & JavaScript](https://github.com/Mugdass/api-testing-examples)
-> API automation with Postman, JS assertions, and RESTful endpoint validation.
+### 🔹 [QA-Automation-CSharp](https://github.com/Mugdass/QA-Automation-CSharp)
+C# + Selenium + NUnit | Modular UI automation framework with unit tests
 
-### 🔹 [C#/.NET UI Test Framework](https://github.com/Mugdass/dotnet-automation)
-> Built with NUnit, Selenium WebDriver, and integrated with Azure DevOps pipelines.
+### 🔹 [API-Automation-RestAssured](https://github.com/Mugdass/API-Automation-RestAssured)
+Java + RestAssured + TestNG | API automation with unit tests
+
+### 🔹 [API-Automation-Postman-ReadyAPI](https://github.com/Mugdass/API-Automation-Postman-ReadyAPI)
+Postman + ReadyAPI | Functional and data-driven API testing with JS assertions/unit tests
+
+### 🔹 [SQL-Backend-Validation](https://github.com/Mugdass/SQL-Backend-Validation)
+SQL + Java | Backend validation scripts with unit tests
+
+### 🔹 [Bash-Linux-Automation](https://github.com/Mugdass/Bash-Linux-Automation)
+Bash/Linux scripts | QA automation with unit tests using shunit2 and JAMS scheduling
+
+### 🔹 [TestComplete-JavaScript-Automation](https://github.com/Mugdass/TestComplete-JavaScript-Automation)
+JavaScript + TestComplete | UI automation framework with unit tests
+
 
 🧪 _More projects coming soon — working on open-source contributions and demo repos._
 
