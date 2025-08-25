@@ -44,6 +44,9 @@ Oracle • SQL Server • MySQL
 ### 🔹 [BillingProjectPOM](https://github.com/Mugdass/BillingProjectPOM)  
 Java + Selenium + TestNG + JUnit + Cucumber (BDD) | Hybrid POM framework with Data-Driven tests, Allure reporting, GitHub Actions + Jenkins CI/CD  
 
+### 🔹 [CucumberTM](https://github.com/Mugdass/cucumberTM)  
+Java + Cucumber + Gherkin + Maven | BDD automation framework with feature files, step definitions, and GitHub Actions CI pipeline  
+
 ### 🔹 [MortgageCalculatorTest](https://github.com/Mugdass/MortgageCalculatorTest)  
 Java + Selenium + TestNG | Page Object Model framework with Positive/Negative/Boundary tests, GitHub Actions CI pipeline, and Allure reporting    
 
