@@ -1,13 +1,13 @@
 # 👋 Hi there, I'm Matas Backevicius
 
-🚀 **Senior QA Automation Engineer** | 📍 California, USA | 🇺🇸 US Citizen  
+🚀 **Software QA Engineer** | 📍 California, USA | 🇺🇸 US Citizen  
 🔍 ISTQB Test Automation Engineer (Exam scheduled Aug 2025) | 💼 Open to new opportunities
 
 ---
 
 ## 🧪 About Me
 
-I’m a QA Automation Engineer with **7+ years of experience** ensuring software quality across Banking, Insurance, and Retail domains. I build **robust, scalable automation frameworks** using Java, C#, Selenium WebDriver, TestNG, NUnit, and integrate them with CI/CD pipelines for efficient testing workflows.
+**7+ years of experience** ensuring software quality across Banking, Insurance, and Retail domains. I build **robust, scalable automation frameworks** using Java, C#, Selenium WebDriver, TestNG, NUnit, and integrate them with CI/CD pipelines for efficient testing workflows.
 
 I specialize in:
 - Designing hybrid/BBD test frameworks (Selenium, Cucumber)
