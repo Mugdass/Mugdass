@@ -65,12 +65,6 @@ JavaScript + TestComplete | UI automation framework with unit tests
 
 🧪 _More projects coming soon — working on open-source contributions and demo repos._
 
----
-
-## 📈 GitHub Stats
-
-![Mugdass's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mugdass&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mugdass&layout=compact)
 
 ---
 
