@@ -44,6 +44,9 @@ Oracle • SQL Server • MySQL
 ### 🔹 [BillingProjectPOM](https://github.com/Mugdass/BillingProjectPOM)  
 Java + Selenium + TestNG + JUnit + Cucumber (BDD) | Hybrid POM framework with Data-Driven tests, Allure reporting, GitHub Actions + Jenkins CI/CD  
 
+### 🔹 [DataDrivenExcelProject](https://github.com/Mugdass/DataDrivenExcelProject)  
+Java + Selenium + TestNG + Apache POI (Excel) | Data-Driven Test Automation framework with Page Object Model, Excel-based test data, HTML/Allure reporting, and GitHub Actions CI pipeline  
+
 ### 🔹 [CucumberTM](https://github.com/Mugdass/cucumberTM)  
 Java + Cucumber + Gherkin + Maven | BDD automation framework with feature files, step definitions, and GitHub Actions CI pipeline  
 
