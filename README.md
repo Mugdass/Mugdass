@@ -42,7 +42,7 @@ Oracle • SQL Server • MySQL
 ## 📂 Featured Projects  
 
 ### 🔹 [WahooFitnessProjectPOM](https://github.com/Mugdass/WahooFitnessProjectPOM)  
-Java + Selenium + TestNG + Cucumber (BDD) + Apache POI (Excel) | POM framework for WahooFitness with Data-Driven Testing, HTML/JSON reporting, and CI-ready GitHub Actions  
+Java + Selenium + TestNG + Cucumber (BDD) + Apache POI | POM framework with Excel data-driven tests, custom XPath locators, CI with GitHub Actions, and detailed TestNG/Cucumber reports    
 
 ### 🔹 [BillingProjectPOM](https://github.com/Mugdass/BillingProjectPOM)  
 Java + Selenium + TestNG + JUnit + Cucumber (BDD) | Hybrid POM framework with Data-Driven tests, Allure reporting, GitHub Actions + Jenkins CI/CD  
