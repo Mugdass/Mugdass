@@ -47,6 +47,9 @@ Java + Selenium + TestNG + JUnit + Cucumber (BDD) | Hybrid POM framework with Da
 ### 🔹 [FacebookDataDrivenProject](https://github.com/Mugdass/FacebookDataDrivenProject)  
 Java + Selenium + Cucumber (BDD) + TestNG + Apache POI | Data-driven Page Object Model framework with Excel-based test data, Cucumber feature files, and GitHub Actions CI/CD  
 
+### 🔹 [GmailPOM](https://github.com/Mugdass/GmailPOM)  
+Java + Selenium + TestNG + Cucumber (BDD) + Apache POI | Data-Driven POM framework with Excel integration, CI pipeline, and automated Gmail workflow tests
+
 ### 🔹 [DataDrivenExcelProject](https://github.com/Mugdass/DataDrivenExcelProject)  
 Java + Apache POI + TestNG | Data-Driven Testing framework with Excel read/write, boundary tests, and automated validation 
 
