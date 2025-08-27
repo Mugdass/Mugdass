@@ -7,7 +7,7 @@
 
 ## 🧪 About Me
 
-**7+ years of experience** ensuring software quality across Banking, Insurance, and Retail domains. I build **robust, scalable automation frameworks** using Java, C#, Selenium WebDriver, TestNG, NUnit, and integrate them with CI/CD pipelines for efficient testing workflows.
+**5+ years of experience** ensuring software quality across Banking, Insurance, and Retail domains. I build **robust, scalable automation frameworks** using Java, C#, Selenium WebDriver, TestNG, NUnit, and integrate them with CI/CD pipelines for efficient testing workflows.
 
 I specialize in:
 - Designing hybrid/BBD test frameworks (Selenium, Cucumber)
