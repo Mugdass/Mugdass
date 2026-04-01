@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Matas Backevicius
 
 🚀 **Software QA Engineer** | 📍 California, USA | 🇺🇸 US Citizen  
-🔍 ISTQB Test Automation Engineer (Exam scheduled Aug 2025) | 💼 Open to new opportunities
+💼 Open to new opportunities
 
 ---
 
