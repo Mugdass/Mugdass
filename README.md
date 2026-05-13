@@ -41,6 +41,11 @@ Oracle • SQL Server • MySQL
 
 ## 📂 Featured Projects  
 
+
+
+### 🔹 [Chordline Automation Framework](https://github.com/Mugdass/Chordline-Health-In-House-Automation)  
+Playwright (JavaScript) + Node.js + GitHub Actions | Scalable end-to-end automation framework with CI/CD pipelines, multi-environment support, and rich reporting (screenshots, videos, HTML reports)
+
 ### 🔹 [WahooFitnessProjectPOM](https://github.com/Mugdass/WahooFitnessProjectPOM)  
 Java + Selenium + TestNG + Cucumber (BDD) + Apache POI | POM framework with Excel data-driven tests, custom XPath locators, CI with GitHub Actions, and detailed TestNG/Cucumber reports    
 
